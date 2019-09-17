@@ -5,6 +5,3 @@ This repository contains the instructions to downloading the dataset used in [Op
 
 ## Instructions
 Only the public keys to scores on MuseScore are included in this repository. To obtain the data, you need a MuseScore API key. More information about obtaining a key and the API can be found [here](http://developers.musescore.com/). An example download script for python 3 is included in the scripts folder.
-
-## Acknowledgements
-This dataset is published with the permission of MuseScore. Many thanks to the MuseScore team for access to their archive and support.
