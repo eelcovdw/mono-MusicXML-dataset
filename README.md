@@ -1,3 +1,5 @@
+NOTICE: Due to changes in MuseScores terms of service, they are no longer handing out public API keys. As a result, the dataset in this repository can no longer be downloaded.
+
 # MuseScore Monophonic MusicXML Dataset
 This repository contains the instructions to downloading the dataset used in [Optical Music Recognition with Convolutional Sequence-to-Sequence Models](https://arxiv.org/abs/1707.04877). The dataset contains approximately 17k scores, divided over a train, validation and evaluation set.
 
